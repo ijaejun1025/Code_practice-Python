@@ -1,3 +1,3 @@
 # Code_practice-Python
 
-https://www.practicepython.org/
+Exercises from https://www.practicepython.org/
